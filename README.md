@@ -3,6 +3,7 @@
   <h1>:rocket: Introdução ao SOLID  </h1>
   <h2>Desafio Ignite Trilha NodeJS</h2>
   <p align="left">Nesse desafio, foi proposto criar uma aplicação do zero em NodeJS para treinar o que foi aprendido, aplicando alguns conceitos do SOLID.</p>
+  <p align="left">Complementando este desafio foi proposto também estar documento a api utilizando o swagger.</p>
 </div>
 
 <hr/>
@@ -13,6 +14,7 @@
 - [x] endpoint PATCH/users/:user_id/admin;
 - [x] endpoint GET/users/:user_id;
 - [x] endpoint GET/users;
+- [x] documentação da api com swagger; 
 
 <hr/>
 
